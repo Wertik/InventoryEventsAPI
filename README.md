@@ -10,7 +10,8 @@ This library provides the PlayerInventoryCloseEvent and PlayerInventoryOpenEvent
 
 Initialize using ``InventoryEventAPI#registerListeners(JavaPlugin plugin)`` and then listen for `PlayerInventoryCloseEvent` and/or `PlayerInventoryOpenEvent`.
 
-Maven:
+## Maven
+
 ```xml
 <repository>
     <id>devport-public</id>
