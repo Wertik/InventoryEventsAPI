@@ -25,3 +25,5 @@ Initialize using ``InventoryEventAPI#registerListeners(JavaPlugin plugin)`` and 
     <scope>compile</scope>
 </dependency>
 ```
+
+*Yes, I call this a library and API at the same time, so confused about this one ok?!*
