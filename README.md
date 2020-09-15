@@ -9,3 +9,18 @@ This library provides the PlayerInventoryCloseEvent and PlayerInventoryOpenEvent
 ## Usage
 
 Initialize using ``InventoryEventAPI#registerListeners(JavaPlugin plugin)`` and then listen for `PlayerInventoryCloseEvent` and/or `PlayerInventoryOpenEvent`.
+
+Maven:
+```xml
+<repository>
+    <id>devport-public</id>
+    <url>http://play.pvpcraft.cz:8081/repository/devport-public/</url>
+</repository>
+
+<dependency>
+    <groupId>space.devport.wertik.inventoryevents</groupId>
+    <artifactId>InventoryEventsAPI</artifactId>
+    <version>1.1.1</version>
+    <scope>compile</scope>
+</dependency>
+```
