@@ -8,4 +8,4 @@ This library provides the PlayerInventoryCloseEvent and PlayerInventoryOpenEvent
 
 ## Usage
 
-Initialize using ``InventoryEventsAPI#registerListeners(JavaPlugin plugin)`` and then listen for `PlayerInventoryCloseEvent` and/or `PlayerInventoryOpenEvent`.
+Initialize using ``InventoryEventAPI#registerListeners(JavaPlugin plugin)`` and then listen for `PlayerInventoryCloseEvent` and/or `PlayerInventoryOpenEvent`.
