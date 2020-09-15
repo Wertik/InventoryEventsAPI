@@ -5,6 +5,7 @@ Replacement for InventoryClose&amp;OpenEvents.
 
 Spigot recently changed InventoryCloseEvent's behaviour. (No longer fires when a player closes his own inventory, [related issue](https://github.com/PaperMC/Paper/issues/3733))
 This library provides the PlayerInventoryCloseEvent and PlayerInventoryOpenEvent, which are both fired using packets.
+*Yes, I call this a library and API at the same time, so confused about this one ok?!*
 
 ## Usage
 
@@ -25,5 +26,3 @@ Initialize using ``InventoryEventAPI#registerListeners(JavaPlugin plugin)`` and 
     <scope>compile</scope>
 </dependency>
 ```
-
-*Yes, I call this a library and API at the same time, so confused about this one ok?!*
