@@ -1,4 +1,4 @@
-# InventoryEventsAPI
+# InventoryEventAPI
 Replacement for InventoryClose&amp;OpenEvents.
 
 ## Description
